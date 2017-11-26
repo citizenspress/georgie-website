@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Georgina K. Cox</title>
+    <link>http://georginacox.ca/test/post/</link>
+    <description>Recent content in Posts on Georgina K. Cox</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Georgina K. Cox</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    <atom:link href="/test/post/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Moving to a new university</title>
+      <link>http://georginacox.ca/test/post/widgets/</link>
+      <pubDate>Tue, 19 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://georginacox.ca/test/post/widgets/</guid>
+      <description>
+
+&lt;h1 id=&#34;testing&#34;&gt;Testing&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
