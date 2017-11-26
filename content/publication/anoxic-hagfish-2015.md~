@@ -24,7 +24,7 @@ publication_short = ""
 abstract = "This study was undertaken to provide a comprehensive set of data relevant to disclosing the physiological effects and possible oxygen transport limitations in the Chinook salmon ( Oncorhynchus tshaw-ytscha ) during an acute temperature change. Fish were instrumented with a blood flow probe around the ventral aorta and catheters in the dorsal aorta and sinus venosus. Water temperature was progressively increased from 13°C in steps of 4°C up to 25°C. Cardiac output increased from 29 to 56 ml min 1 kg 1 between 13 and 25°C through an increase in heart rate (58 to 105 beats/min). Systemic vascular resistance was reduced, causing a stable dorsal aortic blood pressure, yet central venous blood pressure increased significantly at 25°C.  Oxygen  consumption  rate  increased  from  3.4  to  8.7 mg min 1 kg 1 during the temperature increase, although there were signs of anaerobic respiration at 25°C in the form of increased blood lactate and decreased pH. Arterial oxygen partial pressure was main- tained during the heat stress, although venous oxygen partial pressure (Pv O 2 ) and venous oxygen content were significantly reduced. Cardiac arrhythmias were prominent in three of the largest fish (4 kg) at 25°C. Given the switch to anaerobic metabolism and the observation of cardiac arrhythmias at 25°C, we propose that the cascade of venous oxygen depletion results in a threshold value for Pv O 2 of around 1 kPa. At this point, the oxygen supply to systemic and cardiac tissues is compromised, such that the oxygen-deprived and acidotic myocar- dium becomes arrhythmic, and blood perfusion through the gills and to the tissues becomes compromised."
 
 # Featured image thumbnail (optional)
-image_preview = "fig/F3.large.jpg"
+image_preview = "shark.jpg"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -35,8 +35,8 @@ selected = true
 projects = ["hagfish"]
 
 # Links (optional).
-url_pdf = "http://ajpregu.physiology.org/content/295/5/R1631.full.pdf"
-url_preprint = ""
+url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -58,13 +58,9 @@ highlight = false
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "fig/F3.large.jpg"
-caption = "Individual blood flow traces through the ventral aorta of Chinook salmon (Oncorhynchus tshawytscha) at 13°C, immediately upon reaching 25°C, and after being exposed to 25°C for 1 h. "
+image = "headers/bubbles-wide.jpg"
+caption = "My caption :smile:"
 
 +++
 
-with current trends in climate change, it is becoming increasingly important to understand both the behavioral and physiological responses of animals to perturbations in temperature (41). The highly efficient counter-current arrangement between blood and respiratory water at fish gills means that any acute change in ambient water temperature rapidly changes body temperature and modifies tissue oxygen requirements (10–13, 43, 58). A change in the rate of oxygen consumption (ṀO2) then requires a parallel change in oxygen delivery from the gills to tissues by the circulatory system, which is determined by the product of cardiac output (Q) and the difference between arterial (CaO2) and venous (CvO2) oxygen content (CaO2-CvO2) according to the Fick equation: 
-
-![](/test/img/fig/fick.png)
-
-Q is the product of heart rate (fH) and cardiac stroke volume (VS), while CaO2-CvO2 is dependent on oxygen partial pressure and capacitance of the blood for oxygen. Blood oxygen capacitance itself is reliant on mean corpuscular hemoglobin concentration (MCHC), oxygen binding characteristics, and the degree of saturation of the hemoglobin molecule (62). Thus, changes in circulatory oxygen delivery resulting from variations in body temperature can be modulated by changes in one or any combination of these factors (18). In the present study, we were particularly interested in circulatory oxygen delivery because it has been suggested that circulatory performance of fishes may be the first process to cause oxygen deficiency during heat stress (40, 50). However, while many studies have investigated components of the cardiorespiratory response to heat stress in fish, the composite response has rarely been measured in a single study. Furthermore, a range of responses are reported, perhaps reflecting species variability and/or subtle but important differences in the experimental protocols.
+More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
