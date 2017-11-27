@@ -23,10 +23,13 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = ""
+image =  "headers/bubbles-wide.jpg"
+caption = "It has been suggested that cardiovascular function inhibited by PAH exposure accounts for the compromised exercise performance in fish species."
 
 +++
+
+<img src="/img/pres-fish.jpg" align="right" width="50%">
+
 Exposure to polycyclic aromatic hydrocarbons (PAH) negatively impacts exercise performance in fish species but the physiological modifications that result in this phenotype are poorly understood. Prior studies have shown that embryonic and juvenile mahi–mahi (Coryphaeus hippurus) exposed to PAH exhibit morphological abnormalities, altered cardiac development and reduced swimming performance. 
 
 It has been suggested that cardiovascular function inhibited by PAH exposure accounts for the compromised exercise performance in fish species.
