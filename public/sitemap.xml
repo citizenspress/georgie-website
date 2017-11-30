@@ -5,8 +5,35 @@
     
     <url>
     
+      <loc>http://georginacox.ca/post/research-experience/</loc>
+      <lastmod>2017-11-29T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://georginacox.ca/post/biography-cont/</loc>
+      <lastmod>2017-11-27T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://georginacox.ca/post/georgina-k-cox-cv/</loc>
       <lastmod>2017-11-27T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://georginacox.ca/publication/sand-bar-shark-2017/</loc>
+      <lastmod>2017-02-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -68,7 +95,25 @@
     
     <url>
     
-      <loc>http://georginacox.ca/project/crude-effects/</loc>
+      <loc>http://georginacox.ca/publication/crude-mahi-mahi-2016/</loc>
+      <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://georginacox.ca/project/shark-hearts/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://georginacox.ca/project/pelagic-fish/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -86,17 +131,8 @@
     
     <url>
     
-      <loc>http://georginacox.ca/project/shark-hearts/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://georginacox.ca/post/widgets/</loc>
-      <lastmod>2016-04-19T00:00:00-04:00</lastmod>
+      <loc>http://georginacox.ca/publication/coronary-vasculature-2016/</loc>
+      <lastmod>2016-04-22T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -179,7 +215,7 @@
     <url>
     
       <loc>http://georginacox.ca/tags/cv/</loc>
-      <lastmod>2017-11-27T00:00:00-05:00</lastmod>
+      <lastmod>2017-11-29T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -188,17 +224,7 @@
     
     <url>
     
-      <loc>http://georginacox.ca/tags/cadiac-function/</loc>
-      <lastmod>2016-04-19T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://georginacox.ca/tags/cardic-function/</loc>
+      <loc>http://georginacox.ca/tags/cardiac-function/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -219,6 +245,16 @@
     
       <loc>http://georginacox.ca/</loc>
       <lastmod>2017-10-15T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://georginacox.ca/tags/hagfish/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

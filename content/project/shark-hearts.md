@@ -3,17 +3,17 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Morphology of Shark Hearts"
+title = "Cardiac Oxygen Supply and the Morphology of Shark Hearts"
 
 # Project summary to display on homepage.
-summary = "The coronary circulation first appeared in the chordate lineage in cartilaginous fishes where, as in birds and mammals but unlike most teleost fishes, it supplies arterial blood to the entire myocardium. Despite the pivotal position of elasmobranch fishes in the evolution of the coronary circulation, the determinants of coronary blood flow have never been investigated in this group."
+summary = "Providing novel insights to the evolution of the coronary artery and cardiac oxygen delivery in vertebrates. We are used the shark hearts as a model system."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "shark.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["sharks","cardic-function"]
+tags = ["sharks","cardiac-function"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -28,10 +28,16 @@ caption = ""
 
 +++
 
-The coronary circulation first appeared in the chordate lineage in cartilaginous fishes where, as in birds and mammals but unlike most teleost fishes, it supplies arterial blood to the entire myocardium. 
+In this set of studies, I look at the the evolution of the cardiac oxygen supply using sharks as model system. 
 
 ![](/test/img/shark.jpg)
 
-Despite the pivotal position of elasmobranch fishes in the evolution of the coronary circulation, the determinants of coronary blood flow have never been investigated in this group. Elasmobranch fishes are of special interest because of the morphological arrangement of their cardiomyocytes. Unlike teleosts, the majority of the ventricular myocardium in elasmobranch fishes is distant to the venous blood returning to the heart (i.e., the luminal blood). 
+By exploring inter and intra-species variation in cardiovascular variables, I found that changes in vascular resistance could overcome the compressive forces of ventricular contraction in such a way that allows coronary blood flow to increase with heart rate despite the consequent increase in vascular compression by the surrounding myocardial tissue. 
 
-Also, the majority of the myocardium is in close association with the coronary circulation. To determine the relative contribution of the coronary and luminal blood supplies to cardiovascular function in sandbar sharks, Carcharhinus plumbeus, we measured coronary blood flow while manipulating cardiovascular status using acetylcholine and adrenaline.
+By uncovering the mechanism which allows for the increased rate of oxygen delivery during elevated cardiac function I was able to detect similarities with mammalian cardiovascular function and identify a possible underlying mechanisms that may be phylogenetically conserved in vertebrates. 
+
+Furthermore, my morphological analysis of the coronary circulation across shark taxa using classical histological techniques combined with phylogenetic analysis and basic fluid dynamics led me to discover that temperature plays a role as a selective pressure on the design of vascular beds. This work provided novel insights into our understanding of the evolution of the coronary artery and cardiac oxygen delivery in vertebrates. 
+
+
+
+

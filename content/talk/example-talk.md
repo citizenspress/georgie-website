@@ -1,22 +1,22 @@
 +++
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 
-title = "Example Talk"
-time_start = 2030-06-01T13:00:00
-time_end = 2030-06-01T15:00:00
+title = "Getting to the heart of the matter: oxygen supply and demand in fish."
+time_start = 2018-04-23T13:00:00
+time_end = 2018-04-23T15:00:00
+event = "Experimental Biology Conference"
 abstract = ""
 abstract_short = ""
-event = "Academic Theme Conference"
-event_url = "https://example.org"
-location = "London, United Kingdom"
+event_url = "http://www.apsebmeeting.org/eb2018/session.cfm?id=474"
+location = "San Diego, California, USA"
 
 # Is this a selected talk? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["deep-learning"]
+projects = ["hagfish"]
 
 # Links (optional).
 url_pdf = ""
@@ -34,8 +34,14 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+caption = ""
 
 +++
+
+Catch me at the Experimental Biology meeting in San Diego, CA where I have been invited to speak at the "Comparative Perspectives on Maximal O2 and CO2 Transport in Animals" Symposium on Monday April 23rd.
+
+
+
+
 
 <!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. -->

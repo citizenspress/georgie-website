@@ -11,6 +11,50 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Research Experience</title>
+      <link>http://georginacox.ca/post/research-experience/</link>
+      <pubDate>Wed, 29 Nov 2017 00:00:00 -0500</pubDate>
+      
+      <guid>http://georginacox.ca/post/research-experience/</guid>
+      <description>&lt;p&gt;My research interests have necessitated the development of a wide array of scientific abilities, spanning across field, laboratory, surgical, biochemical, histological, and analytical techniques.&lt;/p&gt;
+
+&lt;p&gt;I have gained valuable insight into the importance and limitations of fieldwork by conducting research on three marine research vessels and by participating in the capture of a variety of large, dangerous, and fragile fish species.&lt;/p&gt;
+
+&lt;p&gt;These experiences taught me appropriate fish handling, holding, and transportation techniques along with how sample, tag, and release fish. As a result of on-boat limitations I learned to design field-friendly experimental set-ups. I have also learned that carefully designed lab experiments are a vital pairing for field research.&lt;/p&gt;
+
+&lt;p&gt;In the laboratory, I have measured whole animal performance using techniques such as respirometry and fish swimming trials. I have also completed several biochemical assays of tissue metabolites.&lt;/p&gt;
+
+&lt;p&gt;As my research pairs whole animal performance with cardiovascular function, in-depth knowledge of different surgical techniques were essential skills I acquired.&lt;/p&gt;
+
+&lt;p&gt;During my MSc I successfully performed surgeries on hagfish, a notoriously difficult species to work with. I was able to refine my surgical techniques in a way that reduced knot tying and sliming behaviour in these fish and was the first to use ventral aortic cannulas and transonic flow probes to calculate cardiac power output. During my PhD continued to refine and increase my surgical skills.&lt;/p&gt;
+
+&lt;p&gt;I developed a surgery using transonic flow probes and cannulas that allowed for the simultaneous measurement of total coronary blood flow and cardiovascular function in sharks for the first time. I also developed a method of quantifying vascular parameters of the coronary artery in the spongy myocardial tissue of shark hearts using histology.&lt;/p&gt;
+
+&lt;p&gt;I used phylogenetically independent contrast analysis to look for evidence that environmental temperature played a role as a selective pressure for vascular morphology in sharks using 2D and 3D morphological data. During my post doc I was able to collaborate with geneticists, aquacultural scientists, developmental biologists, physiologists and toxicologists to tackle the question of how fish species will respond to polycyclic aromatic hydrocarbons (the toxic components of oil) exposure from multiple angles.&lt;/p&gt;
+
+&lt;p&gt;I learned and implemented an “in situ heart preparation” technique that allowed me to measure cardiac performance (routine and maximal) on brain dead animals. During my postdoc I also learned new analytical techniques for cardiovascular data, increased my proficiency with the R statistical language, and also learned a great deal about the field of aquatic toxicology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Biography continued</title>
+      <link>http://georginacox.ca/post/biography-cont/</link>
+      <pubDate>Mon, 27 Nov 2017 00:00:00 -0500</pubDate>
+      
+      <guid>http://georginacox.ca/post/biography-cont/</guid>
+      <description>&lt;p&gt;Organisms are facing challenges from rapidly changing environments (e.g. climate warming), increased anthropogenic pollutants, and changes in abiotic environmental factors creating a need to understand how these changes alter biodiversity.&lt;/p&gt;
+
+&lt;p&gt;I have conducted research on a phylogenetically diverse number of fish species (including agnathans, chondrichthyans and teleosts) that have focused on understanding the mechanisms and adaptive significance of diverse cardiovascular phenotypes.&lt;/p&gt;
+
+&lt;p&gt;I believe that cardiovascular phenotypes are of special interest as they are critical in allowing organisms to respond rapidly to acute changes in their environment.&lt;/p&gt;
+
+&lt;p&gt;Even brief perturbations in cardiovascular function can lead to lethal consequences, making the cardiovascular system uniquely functionally relevant for assessing an animal’s response to its environment.&lt;/p&gt;
+
+&lt;p&gt;My integrative approach to obtaining useful data blends the functional understanding that comes from basic comparative physiology with fields of conservation and evolutionary biology. In search of greater insight into how species will respond to abiotic changes, I have merged morphological analysis, pharmacology, surgical techniques, genetic sequencing, and biochemical analysis with insights drawn from toxicology, community ecology, and evolution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Georgina K. Cox: Curriculum Vitae</title>
       <link>http://georginacox.ca/post/georgina-k-cox-cv/</link>
       <pubDate>Mon, 27 Nov 2017 00:00:00 -0500</pubDate>
@@ -490,6 +534,15 @@ in leopard sharks, &lt;em&gt;Triakis semifasciata&lt;/em&gt;, during acute warmi
     </item>
     
     <item>
+      <title>Determinants of coronary blood flow in sandbar sharks, Carcharhinus plumbeus</title>
+      <link>http://georginacox.ca/publication/sand-bar-shark-2017/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://georginacox.ca/publication/sand-bar-shark-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Determinants of coronary blood flow in sandbar sharks, Carcharhinus plumbeus.</title>
       <link>http://georginacox.ca/publication/sandbar-shark-2016/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
@@ -499,73 +552,91 @@ in leopard sharks, &lt;em&gt;Triakis semifasciata&lt;/em&gt;, during acute warmi
     </item>
     
     <item>
-      <title>Example Talk</title>
+      <title>Getting to the heart of the matter: oxygen supply and demand in fish.</title>
       <link>http://georginacox.ca/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>http://georginacox.ca/talk/example-talk/</guid>
-      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+      <description>&lt;p&gt;Catch me at the Experimental Biology meeting in San Diego, CA where I have been invited to speak at the &amp;ldquo;Comparative Perspectives on Maximal O2 and CO2 Transport in Animals&amp;rdquo; Symposium on Monday April 23rd.&lt;/p&gt;
+
+&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
     <item>
-      <title>Effects of crude oil on cardiac function</title>
-      <link>http://georginacox.ca/project/crude-effects/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Effects of crude oil on in situ cardiac function in young adult mahi-mahi (Coryphaena hippurus)</title>
+      <link>http://georginacox.ca/publication/crude-mahi-mahi-2016/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://georginacox.ca/project/crude-effects/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://georginacox.ca/img/pres-fish.jpg&#34; align=&#34;right&#34; width=&#34;50%&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Exposure to polycyclic aromatic hydrocarbons (PAH) negatively impacts exercise performance in fish species but the physiological modifications that result in this phenotype are poorly understood. Prior studies have shown that embryonic and juvenile mahi–mahi (Coryphaeus hippurus) exposed to PAH exhibit morphological abnormalities, altered cardiac development and reduced swimming performance.&lt;/p&gt;
-
-&lt;p&gt;It has been suggested that cardiovascular function inhibited by PAH exposure accounts for the compromised exercise performance in fish species.&lt;/p&gt;
-
-&lt;p&gt;In this study we used in-situ techniques to measure hemodynamic responses of young adult mahi–mahi exposed to PAH for 24 h. The data indicate that stroke volume was reduced 44% in mahi–mahi exposed to 9.6 ± 2.7 μg l−1 geometric mean PAH (∑PAH) and resulted in a 39% reduction in cardiac output and a 52% reduction in stroke work.&lt;/p&gt;
-
-&lt;p&gt;Maximal change in pressure over change in time was 28% lower in mahi–mahi exposed to this level of ∑PAH. Mean intraventricular pressures and heart rate were not significantly changed. This study suggests exposure to environmentally relevant PAH concentrations impairs aspects of cardiovascular function in mahi–mahi.&lt;/p&gt;
-</description>
+      <guid>http://georginacox.ca/publication/crude-mahi-mahi-2016/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Hagfish</title>
-      <link>http://georginacox.ca/project/hagfish/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://georginacox.ca/project/hagfish/</guid>
-      <description>&lt;p&gt;Pacific hagfish, Eptatretus stoutii, can recover from 36 h of anoxia at 10°C. Such anoxia tolerance demands the mobilization of anaerobic fuels and the removal of metabolic wastes – processes that require a functional heart. The purpose of this study was to measure the metabolic response of the excised, cannulated hagfish heart to anoxia using direct calorimetry. These experiments were coupled with measurements of cardiac pH and metabolite concentrations, at multiple time points, to monitor acid–base balance and anaerobic ATP production. We also exposed hagfish to anoxia to compare the in vitro responses of the excised hearts with the in vivo responses.&lt;/p&gt;
-
-&lt;p&gt;The calorimetry results revealed a significant reduction in the rate of metabolic heat production over the first hour of anoxia exposure, and a recovery over the subsequent 6 h. This response is likely attributable to a rapid anoxia-induced depression of aerobic ATP-production pathways followed by an upregulation of anaerobic ATP-production pathways such that the ATP production rate was restored to that measured in normoxia. Glycogen-depletion measurements suggest that metabolic processes were initially supported by glycolysis but that an alternative fuel source was used to support the sustained rates of ATP production. The maintenance of intracellular pH during anoxia indicates a remarkable ability of the myocytes to buffer/regulate protons and thus protect cardiac function.&lt;/p&gt;
-
-&lt;p&gt;Altogether, these results illustrate that the low metabolic demand of the hagfish heart allows for near-routine levels of cardiac metabolism to be supported anaerobically. This is probably a significant contributor to the hagfish’s exceptional anoxia tolerance.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Morphology of Shark Hearts</title>
+      <title>Cardiac Oxygen Supply and the Morphology of Shark Hearts</title>
       <link>http://georginacox.ca/project/shark-hearts/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://georginacox.ca/project/shark-hearts/</guid>
-      <description>&lt;p&gt;The coronary circulation first appeared in the chordate lineage in cartilaginous fishes where, as in birds and mammals but unlike most teleost fishes, it supplies arterial blood to the entire myocardium.&lt;/p&gt;
+      <description>&lt;p&gt;In this set of studies, I look at the the evolution of the cardiac oxygen supply using sharks as model system.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;http://georginacox.ca/test/img/shark.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Despite the pivotal position of elasmobranch fishes in the evolution of the coronary circulation, the determinants of coronary blood flow have never been investigated in this group. Elasmobranch fishes are of special interest because of the morphological arrangement of their cardiomyocytes. Unlike teleosts, the majority of the ventricular myocardium in elasmobranch fishes is distant to the venous blood returning to the heart (i.e., the luminal blood).&lt;/p&gt;
+&lt;p&gt;By exploring inter and intra-species variation in cardiovascular variables, I found that changes in vascular resistance could overcome the compressive forces of ventricular contraction in such a way that allows coronary blood flow to increase with heart rate despite the consequent increase in vascular compression by the surrounding myocardial tissue.&lt;/p&gt;
 
-&lt;p&gt;Also, the majority of the myocardium is in close association with the coronary circulation. To determine the relative contribution of the coronary and luminal blood supplies to cardiovascular function in sandbar sharks, Carcharhinus plumbeus, we measured coronary blood flow while manipulating cardiovascular status using acetylcholine and adrenaline.&lt;/p&gt;
+&lt;p&gt;By uncovering the mechanism which allows for the increased rate of oxygen delivery during elevated cardiac function I was able to detect similarities with mammalian cardiovascular function and identify a possible underlying mechanisms that may be phylogenetically conserved in vertebrates.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, my morphological analysis of the coronary circulation across shark taxa using classical histological techniques combined with phylogenetic analysis and basic fluid dynamics led me to discover that temperature plays a role as a selective pressure on the design of vascular beds. This work provided novel insights into our understanding of the evolution of the coronary artery and cardiac oxygen delivery in vertebrates.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Moving to a new university</title>
-      <link>http://georginacox.ca/post/widgets/</link>
-      <pubDate>Tue, 19 Apr 2016 00:00:00 -0400</pubDate>
+      <title>Cardiac function following oil exposure in pelagic fish</title>
+      <link>http://georginacox.ca/project/pelagic-fish/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://georginacox.ca/post/widgets/</guid>
-      <description>
+      <guid>http://georginacox.ca/project/pelagic-fish/</guid>
+      <description>&lt;p&gt;During my postdoc as part of the RECOVER consortium, funded through GOMRI,  I have investigated whether phenotypic plasticity allows species to overcome anthropogenic sources of environmental pollution in the form of polycyclic aromatic hydrocarbons (PAH’s), the toxic components of oil.&lt;/p&gt;
 
-&lt;h1 id=&#34;testing&#34;&gt;Testing&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;http://georginacox.ca/img/pres-fish.jpg&#34; align=&#34;right&#34; width=&#34;50%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;In this study I used a perfused heart technique to investigate the compensatory capacity of the cardiovascular system to overcome the reduced contractile function that results from acute PAH exposure in pelagic fish species.&lt;/p&gt;
+
+&lt;p&gt;I discovered an interactive effect between PAH exposure and adrenergic stimulation that suggested catecholamines could play a compensatory role that may help to mitigate adverse effects of PAH exposure on the heart &lt;em&gt;in vivo&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;My results indicated adrenergic nerve stimulation in combination with increased circulating catecholamines might be able to rescue cardiac function for brief periods in exposed individuals. However, a proportion of PAH exposed fish were unable to recover from maximal exertion despite elevated catecholamine levels.&lt;/p&gt;
+
+&lt;p&gt;This research was the first to demonstrate that acute exposure to environmentally relevant concentrations of oil has profound effects on cardiovascular function at moderate to high levels of cardiac activity in athletic pelagic fish species. This research was presented locally for the general public, and nationally and internationally for the scientific community.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Cardiovascular function of hagfish in anoxia (no oxygen) environments</title>
+      <link>http://georginacox.ca/project/hagfish/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://georginacox.ca/project/hagfish/</guid>
+      <description>&lt;p&gt;The vast majority of vertebrate hearts can survive only minutes when cut off from oxygen.&lt;/p&gt;
+
+&lt;p&gt;In this study, and in conjunction with my work on cardiovascular responses to anoxia in hagfish, I discovered a number of diverse cardiovascular and biochemical phenotypes that permitted the survival of hagfish for &amp;gt;36h of complete oxygen deprivation.&lt;/p&gt;
+
+&lt;p&gt;I discovered that hagfish were able to maintain routine metabolic rate for up to 6 hours of anoxia and that they subsequently utilized metabolic rate suppression to survive anoxic exposure.&lt;/p&gt;
+
+&lt;p&gt;By using metabolic rate suppression hagfish met energy requirement using only their glycolytic capacity.&lt;/p&gt;
+
+&lt;p&gt;I further discovered that in order to circulate the necessary glycolytic substrates and remove metabolic waste products from tissues the heart maintained function during anoxia. This was a particular surprise as cardiovascular function has traditionally been viewed as highly reliant on a stable oxygen supply.&lt;/p&gt;
+
+&lt;p&gt;My research in hagfish has lead to collaborations with other investigators that have since used hagfish to investigate physiological mechanisms of hypoxia and anoxia tolerance, and cardiovascular control mechanisms.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Morphological arrangement of the coronary vasculature in a shark (Squalus sucklei) and a teleost (Oncorhynchus mykiss)</title>
+      <link>http://georginacox.ca/publication/coronary-vasculature-2016/</link>
+      <pubDate>Fri, 22 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://georginacox.ca/publication/coronary-vasculature-2016/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -612,34 +683,6 @@ in leopard sharks, &lt;em&gt;Triakis semifasciata&lt;/em&gt;, during acute warmi
       
       <guid>http://georginacox.ca/publication/anoxic-hagfish-2011/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Cardiac responses to anoxia in the Pacific hagfish, Eptatretus stoutii.</title>
-      <link>http://georginacox.ca/publication/anoxic-hagfish-2010/</link>
-      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
-      
-      <guid>http://georginacox.ca/publication/anoxic-hagfish-2010/</guid>
-      <description>&lt;p&gt;Only a few of the more than 25,000 species of fishes are known to be tolerant of severe hypoxia, and even anoxia. Even so, there are representatives among cyclostomes, elasmobranchs and teleosts. Among teleosts, the carp family has several hypoxia-tolerant species, e.g. the common carp, Cyprinus carpio (Stecyk and Farrell, 2002; Stecyk et al., 2004) and the tilapia, Oreochromis hybrid sp. (Speers-Roesch et al., 2010), but the crucian carp, Carassius carassius, stands out as being tolerant of anoxia for days to weeks at temperatures of 5–8°C (Hyvärinen et al., 1985; Nilsson, 1990; Nilsson, 2001; Shoubridge and Hochachka, 1980; Stecyk et al., 2004; Vornanen and Tuomennoro, 1999). The most hypoxia-tolerant elasmobranch appears to be the epaulette shark, Hemiscyllium ocellatum, which can withstand hours of severe hypoxia at 25°C (Nilsson and Renshaw, 2004; Stenslokken et al., 2004; Wise et al., 1998). Among cyclostomes, hagfishes routinely inhabit oxygen-depleted environments, such as hypoxic sediments. In addition, their feeding strategy of burrowing into the coelomic cavities of dead or moribund animals exposes them to short periods of severe hypoxia or anoxia (Axelsson et al., 1990; Forster et al., 1992; Perry et al., 1993; Perry et al., 2009). However, whether or not hagfishes are anoxia tolerant is unclear, although there are certainly suggestions that the heart can function under anoxic conditions (Forster, 1991; Hansen and Sidell, 1983).&lt;/p&gt;
-
-&lt;p&gt;Given the possibility that hagfishes might be anoxia tolerant, the objective of the present study was to characterize the cardiac responses in the Pacific hagfish, Eptatretus stoutii (Lockington 1878), to prolonged anoxia because most vertebrate hearts do not tolerate even severe hypoxia. It has been suggested that the ability to maintain cardiac function without sufficient oxygen requires a low routine cardiac power output and ATP demand, a high cardiac glycolytic potential and a means of dealing with anaerobic wastes (Farrell, 1991b; Farrell and Stecyk, 2007). In this regard, hagfishes are recognized as having the lowest cardiac power output among all fishes (Farrell, 2007a), an in vitro or in situ cardiac glycolytic potential that can serve these needs (Forster, 1991; Hansen and Sidell, 1983) and a blood volume larger than any vertebrate (Forster et al., 2001).&lt;/p&gt;
-
-&lt;p&gt;Although the cardiovascular features of hagfish suggest that they could maintain cardiac performance during prolonged periods of anoxia, the requisite measurements of cardiac power output, the product of ventral aortic blood flow and pressure, are lacking. Instead, such measurements have been limited to severely hypoxic hagfishes for a period of 30 min or less. Under these conditions, cardiac output was maintained or slightly increased in the Atlantic hagfish, Myxine glutinosa, and the New Zealand hagfish, Eptatretus cirrhatus (Axelsson et al., 1990; Forster et al., 1992). Furthermore, Hansen and Sidell (Hansen and Sidell, 1983) had earlier shown that the gross mechanical activity (frequency and force of heart beat) of an in situ heart was maintained in anaesthetized M. glutinosa for 3 h after cardiac poisoning with either cyanide or azide to stop mitochondrial respiration, as well as during severe hypoxia (gills perfused with nitrogen-equilibrated water). However, given that the majority of hypoxia-tolerant vertebrates reduce cardiac power output by 50–95% during severe hypoxia, the only exception being crucian carp (Stecyk et al., 2004), there is the possibility that hagfish, extant representatives of fish with the most primitive chambered heart, also depress cardiac power output during prolonged anoxia. Thus, the purpose of this study was to test the hypothesis that the Pacific hagfish, like the crucian carp, maintain cardiac performance during prolonged anoxia.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Circulatory limits to oxygen supply during an acute temperature increase in the Chinook salmon (Oncorhynchus tshawytscha)</title>
-      <link>http://georginacox.ca/publication/circ-limits-salmon/</link>
-      <pubDate>Wed, 03 Sep 2008 00:00:00 +0000</pubDate>
-      
-      <guid>http://georginacox.ca/publication/circ-limits-salmon/</guid>
-      <description>&lt;p&gt;with current trends in climate change, it is becoming increasingly important to understand both the behavioral and physiological responses of animals to perturbations in temperature (41). The highly efficient counter-current arrangement between blood and respiratory water at fish gills means that any acute change in ambient water temperature rapidly changes body temperature and modifies tissue oxygen requirements (10–13, 43, 58). A change in the rate of oxygen consumption (ṀO2) then requires a parallel change in oxygen delivery from the gills to tissues by the circulatory system, which is determined by the product of cardiac output (Q) and the difference between arterial (CaO2) and venous (CvO2) oxygen content (CaO2-CvO2) according to the Fick equation:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://georginacox.ca/test/img/fig/fick.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Q is the product of heart rate (fH) and cardiac stroke volume (VS), while CaO2-CvO2 is dependent on oxygen partial pressure and capacitance of the blood for oxygen. Blood oxygen capacitance itself is reliant on mean corpuscular hemoglobin concentration (MCHC), oxygen binding characteristics, and the degree of saturation of the hemoglobin molecule (62). Thus, changes in circulatory oxygen delivery resulting from variations in body temperature can be modulated by changes in one or any combination of these factors (18). In the present study, we were particularly interested in circulatory oxygen delivery because it has been suggested that circulatory performance of fishes may be the first process to cause oxygen deficiency during heat stress (40, 50). However, while many studies have investigated components of the cardiorespiratory response to heat stress in fish, the composite response has rarely been measured in a single study. Furthermore, a range of responses are reported, perhaps reflecting species variability and/or subtle but important differences in the experimental protocols.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

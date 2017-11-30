@@ -11,12 +11,14 @@
     <atom:link href="/talk/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Example Talk</title>
+      <title>Getting to the heart of the matter: oxygen supply and demand in fish.</title>
       <link>http://georginacox.ca/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>http://georginacox.ca/talk/example-talk/</guid>
-      <description>&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
+      <description>&lt;p&gt;Catch me at the Experimental Biology meeting in San Diego, CA where I have been invited to speak at the &amp;ldquo;Comparative Perspectives on Maximal O2 and CO2 Transport in Animals&amp;rdquo; Symposium on Monday April 23rd.&lt;/p&gt;
+
+&lt;!-- Embed your slides or video here using [shortcodes](https://sourcethemes.com/academic/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code. --&gt;
 </description>
     </item>
     
