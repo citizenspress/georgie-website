@@ -13,6 +13,8 @@ _Below is my biography for running for position of Postdoctoral Councillor at th
 
 ### Georgina K. Cox
 
+<img src="/img/portrait.jpg" align="right">
+
 Georgina Cox received her PhD in Zoology at the University of British Columbia under Dr. Anthony Farrell on the functional significance of the coronary artery in elasmobranchs. Georgina is mainly interested in how marine organisms in heterogeneous environments cope with abiotic stressors. Currently, as a postdoctoral researcher at the University of Pennsylvania in the lab of Dr. Jeffrey Field she is assessing how individual genetic changes alter cardiovascular performance.
 
 Georgina is running for the position of Postdoctoral Councillor.
