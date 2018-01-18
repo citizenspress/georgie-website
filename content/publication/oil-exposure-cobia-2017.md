@@ -1,6 +1,6 @@
 +++
 title = "Oil Exposure Impairs In Situ Cardiac Function in Response to β-Adrenergic Stimulation in Cobia (Rachycentron canadum)"
-date = "2017-11-28"
+date = "2017-12-19"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Cox GK", "Crossley DA", "Stieglitz JD", "Heuer RM", "Benetti DD", "Grosell M"]
@@ -17,7 +17,7 @@ authors = ["Cox GK", "Crossley DA", "Stieglitz JD", "Heuer RM", "Benetti DD", "G
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Environ Sci Technol. 2017 Nov 28"
+publication = "Environ. Sci. Technol., 2017, 51 (24), pp 14390–14396"
 publication_short = ""
 
 # Abstract and optional shortened version.
@@ -27,7 +27,7 @@ abstract = "Aqueous crude oil spills expose fish to varying concentrations of di
 image_preview = "fish-oil.gif"
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

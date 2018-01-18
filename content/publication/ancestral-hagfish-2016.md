@@ -22,6 +22,8 @@ publication_short = "J Exp Biol."
 
 # Abstract and optional shortened version.
 abstract = "Although neural modulation of heart rate is well established among chordate animals, the Pacific hagfish (Eptatretus stoutii) lacks any cardiac innervation, yet it can increase its heart rate from the steady, depressed heart rate seen in prolonged anoxia to almost double its normal normoxic heart rate, an almost fourfold overall change during the 1-h recovery from anoxia. The present study sought mechanistic explanations for these regulatory changes in heart rate. We provide evidence for a bicarbonate-activated, soluble adenylyl cyclase (sAC)-dependent mechanism to control heart rate, a mechanism never previously implicated in chordate cardiac control."
+abstract_short = "This is a short abstract."
+
 
 # Featured image thumbnail (optional)
 image_preview = "hagfish1.jpg"
