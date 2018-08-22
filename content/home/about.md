@@ -20,6 +20,11 @@ weight = 5
 
 [[education.courses]]
   course = "Postdoctoral Scholar"
+  institution = "University of Guelph, Department of Integrative Biology"
+  year = Current
+
+[[education.courses]]
+  course = "Postdoctoral Scholar"
   institution = "University of Pennsylvania, Perelmen School of Medicine, Department of Pharmacology"
   year = 2018
 
@@ -42,14 +47,14 @@ weight = 5
   course = "BSc in Biology"
   institution = "University of New Brunswick"
   year = 2006
- 
+
 +++
 
 # Biography
 
-Starting in Oct. 2017, I am a biomedical postdoctoral researcher at the University of Pennsylvania’s Perelman School of Medicine in Dr. Jeffrey Field’s lab. I completed my PhD with Dr. Anthony Farrell in the Zoology department at the University of British Columbia. 
+Starting in Oct. 2017, I am a biomedical postdoctoral researcher at the University of Pennsylvania’s Perelman School of Medicine in Dr. Jeffrey Field’s lab. I completed my PhD with Dr. Anthony Farrell in the Zoology department at the University of British Columbia.
 
-My primary over-arching interest is understanding how marine organisms that inhabit heterogeneous environments are able to physiologically cope with abiotic stressors and changing environments. 
+My primary over-arching interest is understanding how marine organisms that inhabit heterogeneous environments are able to physiologically cope with abiotic stressors and changing environments.
 
 
 My current post doctoral research utilizes gene knockout and inducible gene knockout models to investigate how specific cell signaling pathways can lead to disease states, such as cardiomyopathy, cardiac conduction disease, and sudden cardiac death. Working with biomedical models has allowed me to expand my skillset to include genetic sequencing and these are valuable tools when considering the diverse responses of the cardiovascular system to environmental changes across, within, and between genders in ectothermic vertebrates.
