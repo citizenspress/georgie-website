@@ -10,7 +10,7 @@ Post Doctoral Fellow, University of Pennsylvania, Perelmen School of Medicine, U
 +++
 
 
-Current position 
+Current position
 =================
 
 
@@ -18,11 +18,10 @@ Current position
 <img src="/img/portrait.jpg" align="right" width="30%">
 
 **Post Doctoral Fellow**  
-2017 – present  
-University of Pennsylvania  
-Perelmen School of Medicine  
-Department of Pharmacology  
-Centre of Excellence in Environmental Toxicology  Supervisor: Dr. Jeffrey Field, Department of Pharmacology
+2018 – present  
+University of Guelph  
+Department of Integrative Biology  
+Supervisor: Dr. Todd Gillis
 
 > **Contact Information**  
 > Department of Pharmacology  
@@ -54,8 +53,17 @@ Centre of Excellence in Environmental Toxicology  Supervisor: Dr. Jeffrey Field,
 ---
 
 
-Previous positions 
+Previous positions
 ===================
+
+**Post Doctoral Fellow,**
+2017 – 2018  
+University of Pennsylvania  
+Perelmen School of Medicine  
+Department of Pharmacology  
+Centre of Excellence in Environmental Toxicology  Supervisor: Dr. Jeffrey Field, Department of Pharmacology
+
+
 
 **Post Doctoral Fellow,**  
 2015 - 2017  
@@ -225,7 +233,7 @@ Presentations
     hagfish, *Eptatretus stoutii*. Comparative physiology BEERS seminar
     series
 
-Research Expeditions 
+Research Expeditions
 =====================
 
 ### 2017 Mahi-mahi tagging
@@ -262,7 +270,7 @@ Funded by: NSERC Discovery
 Investigation of parasite loads in invertebrates and vertebrates of
 the Quoddy region.
 
-Service and Public Outreach 
+Service and Public Outreach
 ============================
 
 ### Peer Referee (2011-Current)
@@ -282,7 +290,7 @@ The power of the Mahi heart
 Saltwater Brewery  
 Delray Beach, Florida.
 
-### Pubic outreach scientist (2016) 
+### Pubic outreach scientist (2016)
 Turtlefest  
 Loggerhead Marine Life Center  
 Palm Beach, Florida.
@@ -353,7 +361,7 @@ The Changing Bay of Fundy – Beyond 400 Years
 University of New Brunswick
 
 
-Further Education 
+Further Education
 ==================
 
 #### 2015
@@ -365,7 +373,7 @@ Instructors: Jannik Herskin (Loligo Systems), Martin Grosell (University of Miam
 Fish Swimming: Kinematics, Ecomorphology, Behaviour and Environmental Physiology  Friday Harbor Laboritories, University of Washington  
 Instructors: Dr. John Steffensen (University of Copenhagen) and Dr. Paolo Domenici (IAMC).
 
-Professional Affiliations 
+Professional Affiliations
 ==========================
 
 -   American Physiological Society
@@ -373,7 +381,7 @@ Professional Affiliations
 -   Canadian Society of Zoologists
 -   American Fisheries Society
 
-Additional Certifications 
+Additional Certifications
 ==========================
 
 1. Species-specific hands-on training (mouse), University of Pennsylvania
