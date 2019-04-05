@@ -21,7 +21,7 @@ weight = 5
 [[education.courses]]
   course = "Postdoctoral Scholar"
   institution = "University of Guelph, Department of Integrative Biology"
-  year = Current
+  year = 2019
 
 [[education.courses]]
   course = "Postdoctoral Scholar"
