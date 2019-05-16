@@ -1,11 +1,11 @@
 +++
-date = 2017-11-27
+date = 2019-01-01
 draft = false
 tags = ["CV"]
 title = "Georgina K. Cox: Curriculum Vitae"
 math = false
 summary = """
-Post Doctoral Fellow, University of Pennsylvania, Perelmen School of Medicine, University of Pennsylvania (2017 – present)."""
+Post Doctoral Fellow, Department of Integrative Biology, University of Guelph (2019 – present)."""
 
 +++
 
@@ -24,12 +24,11 @@ Department of Integrative Biology
 Supervisor: Dr. Todd Gillis
 
 > **Contact Information**  
-> Department of Pharmacology  
-> Perelman School of Medicine  
-> University of Pennsylvania  
-> 421 Curie Blvd, Philadelphia, Pennsylvania, USA 19104  
-> Phone: [+1 786 387 5173](+1 786 387 517)  
-> Email: [gcox@pennmedicine.upen.edu](gcox@pennmedicine.upen.edu)
+> Department of Integrative Biology  
+> University of Guelph  
+> 50 Stone Road East  
+> Guelph, Ontario, Canada, N1G 2W1 
+> Email: [georgina@georginacox.ca](georgina@georginacox.ca)
 
 ---
 

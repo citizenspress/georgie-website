@@ -44,12 +44,12 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "School of Medicine, University of Pennsylvania", url = "" } ]
+  organizations = [ { name = "Department of Integrative Biology, University of Guelph", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "georgina@georginacox.ca"
-  address = "School of Medicine, University of Pennsylvania, Philadelphia, PA, USA"
+  address = "Department of Integrative Biology, University of Guelph, ON, Canada"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "1-786-397-5173"
   # skype = ""
