@@ -1,6 +1,6 @@
 baseurl = "http://georginacox.ca/"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Georgina K. Cox"
-copyright = "&copy; 2017 Georgina K. Cox"
+copyright = "&copy; 2019 Georgina K. Cox"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -245,7 +245,7 @@ defaultContentLanguageInSubdir = false
   name = "Recent Publications"
   url = "#publications"
   weight = 5
-  
+
 [[menu.main]]
   name = "Posts"
   url = "#posts"
