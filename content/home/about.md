@@ -33,14 +33,22 @@ interests = ["Evolution of coronary circulation in sharks", "Comparative cardiov
 +++
 # Biography
 
- I am currently at in the Department of Integrative Biology at the University of Guelph in Todd Gillis' lab. 
 
-I completed my PhD with Dr. Anthony Farrell in the Zoology department at the University of British Columbia.
+My research interests broadly centre on cardiovascular responses to physiological and abiotic stress. I use a comparative approach to look for commonalities in how cardiovascular systems in animals that inhabit heterogenous environments overcome physiological and abiotic stress. By conducting research on a phylogenetically diverse number of fish species (including agnathans, chondrichthyans and teleosts), and mammals I have discovered various metabolic, functional, and morphological phenotypes that affect species sensitivity or persistence in the face of anoxia, temperature variation, pollution, and disease. The unifying goal of my research is to make fundamental discoveries on cardiovascular function and apply them to further our understanding of species’ underlying physiology.
 
-My primary over-arching interest is understanding how marine organisms that inhabit heterogeneous environments are able to physiologically cope with abiotic stressors and changing environments.
 
-Starting in Oct. 2017, I was a biomedical postdoctoral researcher at the University of Pennsylvania’s Perelman School of Medicine in Dr. Jeffrey Field’s lab. During this post doc my research used gene knockout and inducible gene knockout models to investigate how specific cell signaling pathways can lead to disease states, such as cardiomyopathy, cardiac conduction disease, and sudden cardiac death. Working with biomedical models allowed me to expand my skillset to include genetic sequencing and these are valuable tools when considering the diverse responses of the cardiovascular system to environmental changes across, within, and between genders in ectothermic vertebrates.
+Past and present research topics:
 
-My previous research was as a post-doctoral fellow in Dr. Martin Grosell’s lab at the University of Miami’s Rosenstiel School of Marine and Atmospheric Science. The research was part of the RECOVER consortium (Relationships of Effects of Cardiac Outcomes in fish for Validation of Ecological Risk). RECOVER is one of 12 research groups awarded grants to carry-out independent research following the April 20, 2010, Deepwater Horizon (DWH) oil spill.
+
+My approach to obtaining data blends the functional understanding that comes from basic comparative physiology with the fields of conservation, toxicology, and evolutionary biology. Previously, my research focused on the relationship between cardiovascular physiology and organismal function using a diverse number of elasmobranch species. By exploring inter-and intra- species variation in cardiovascular variables I discovered a mechanism that allows adequate oxygen to be delivered to the heart during times of extreme physiological stress. The discovery of this mechanism allowed me to detect similarities with mammalian cardiovascular function and identify possible underlying mechanisms that may be present in vertebrates in general. Furthermore, my morphological analysis of the coronary circulation across shark taxa using classical corrosion casting, histological techniques, and 3D imaging of vascular beds combined with phylogenetic analysis and basic fluid dynamics led me to discover that temperature plays a role as a selective pressure on the design of vascular beds.
+
+During my first postdoc I expanded my work to investigate whether phenotypic plasticity allow species to overcome anthropogenic sources of environmental pollution in the form of polycyclic aromatic hydrocarbons (PAHs -the toxic components of oil) that would otherwise be lethal. As part of the RECOVER consortium I was able to collaborate with geneticists, aquacultural scientists, developmental biologists, physiologists, and toxicologists to tackle the question of how fish species respond to PAH exposure on multiple levels of biological organization.
+
+During a post doctoral research position at the University of Pennsylvania I utilized gene knockout and inducible gene knockout models to investigate how specific cell signaling pathways can lead to disease states, such as cardiomyopathy, cardiac conduction disease, and sudden cardiac death in mammalian models. Working with biomedical models has allowed me to expand my skillset to include genetic sequencing and these are valuable tools when considering the diverse responses of the cardiovascular system to environmental changes across species of ectothermic animals.
+
+I am currently at in the Department of Integrative Biology at the University of Guelph in Todd Gillis' lab https://comparativephys.ca/gillislab/ where I am investigating the spectacular anoxia tolerance of a phylogenetically ancient species of hagfish. I have previously discovered a number of diverse cardiovascular and biochemical phenotypes that permitted survival of these fish for >36h of complete oxygen deprivation in the Farrell lab at the University of British Columbia (UBC). These discoveries provided new insight into cardiovascular function that has been traditionally viewed as a highly aerobic process. Currently I am expanding on discoveries made in the Gillis lab that indicate hagfish a use atypical biochemical pathways to ensure their anoxic survival - stay tuned.
+
+
+
 
 [Read more here](post/biography-cont)
