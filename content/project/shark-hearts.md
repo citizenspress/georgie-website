@@ -30,7 +30,7 @@ caption = ""
 
 In this set of studies, I look at the the evolution of the cardiac oxygen supply using sharks as model system.
 
-![](/test/img/shark.jpg)
+![](/img/shark.jpg)
 
 By exploring inter and intra-species variation in cardiovascular variables, I found that changes in vascular resistance could overcome the compressive forces of ventricular contraction in such a way that allows coronary blood flow to increase with heart rate despite the consequent increase in vascular compression by the surrounding myocardial tissue.
 
