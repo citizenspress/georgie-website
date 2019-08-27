@@ -21,7 +21,7 @@ weight = 3
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
 [cta]
   url = "./post/georgina-k-cox-cv/"
-  label = '<i class="fa fa-file-o"></i> Full CV ' 
+  label = '<i class="fa fa-file-o"></i> Full CV '
 +++
 
 in comparative cardiovascular physiology. :fish:

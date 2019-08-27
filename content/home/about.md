@@ -6,15 +6,15 @@ widget = "about"
 [[education.courses]]
 course = "Postdoctoral Scholar"
 institution = "University of Guelph, Department of Integrative Biology"
-year = 2019
+year = 2018 - Current
 [[education.courses]]
 course = "Postdoctoral Scholar"
 institution = "University of Pennsylvania, Perelmen School of Medicine, Department of Pharmacology"
-year = 2018
+year = 2017 - 2018
 [[education.courses]]
 course = "Postdoctoral Scholar"
 institution = "University of Miami's Rosenstiel School of Marine and Atmospheric Science"
-year = 2017
+year = 2015 - 2017
 [[education.courses]]
 course = "PhD in Zoology/Animal Biology"
 institution = "University of British Columbia"
@@ -28,13 +28,13 @@ course = "BSc in Biology"
 institution = "University of New Brunswick"
 year = 2006
 [interests]
-interests = ["Evolution of coronary circulation in sharks", "Comparative cardiovascular physiology", "Morphology of Shark Hearts", "Coronary circulation in fishes"]
+interests = ["Comparative cardiovascular physiology", "Toxicology", "Cardiac disease", "Evolution of complex cardiovascular phenotypes", "Cardiovascular morphology", "Coronary circulation"]
 
 +++
 # Biography
 
 
-My research interests broadly centre on cardiovascular responses to physiological and abiotic stress. I use a comparative approach to look for commonalities in how cardiovascular systems in animals that inhabit heterogenous environments overcome physiological and abiotic stress. By conducting research on a phylogenetically diverse number of fish species (including agnathans, chondrichthyans and teleosts), and mammals I have discovered various metabolic, functional, and morphological phenotypes that affect species sensitivity or persistence in the face of anoxia, temperature variation, pollution, and disease. The unifying goal of my research is to make fundamental discoveries on cardiovascular function and apply them to further our understanding of species’ underlying physiology.
+My research interests broadly center on cardiovascular responses to physiological and abiotic stress. I use a comparative approach to look for commonalities in how cardiovascular systems in animals that inhabit heterogeneous environments overcome physiological and abiotic stress. By conducting research on a phylogenetically diverse number of fish species (including agnathans, chondrichthyans and teleosts), and mammals I have discovered various metabolic, functional, and morphological phenotypes that affect species sensitivity or persistence in the face of anoxia, temperature variation, pollution, and disease. The unifying goal of my research is to make fundamental discoveries on cardiovascular function and apply them to further our understanding of species’ underlying physiology.
 
 
 Past and present research topics:

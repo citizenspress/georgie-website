@@ -15,7 +15,7 @@ Current position
 
 
 
-<img src="/img/portrait.jpg" align="right" width="30%">
+<img src="/img/Picture-alewife.jpg" align="right" width="30%">
 
 **Post Doctoral Fellow**  
 2018 – present  
@@ -27,7 +27,7 @@ Supervisor: Dr. Todd Gillis
 > Department of Integrative Biology  
 > University of Guelph  
 > 50 Stone Road East  
-> Guelph, Ontario, Canada, N1G 2W1 
+> Guelph, Ontario, Canada, N1G 2W1
 > Email: [georgina@georginacox.ca](georgina@georginacox.ca)
 
 ---
