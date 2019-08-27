@@ -13,7 +13,7 @@ image = "headers/bubbles-wide.jpg"
 +++
 During my postdoc as part of the RECOVER consortium, funded through GOMRI,  I have investigated whether phenotypic plasticity allows species to overcome anthropogenic sources of environmental pollution in the form of polycyclic aromatic hydrocarbons (PAH’s), the toxic components of oil.
 
-<img src="./img/pres-fish.jpg" align="right" width="50%">
+<img src="/img/pres-fish.jpg" align="right" width="50%">
 
 In this study I used a perfused heart technique to investigate the compensatory capacity of the cardiovascular system to overcome the reduced contractile function that results from acute PAH exposure in pelagic fish species.
 

@@ -30,7 +30,7 @@ caption = ""
 
 In this set of studies, I use sharks as a model system to study the functional significance of the cardiac oxygen supply.
 
-![](/test/img/shark.jpg)
+![](/img/shark.jpg)
 
 The coronary circulation first appeared in the chordate lineage in cartilaginous fishes where it perfuses the entire myocardium, just like in birds and mammals but unlike in most teleost fishes. Yet, despite the pivotal position of elasmobranchs in the evolution of the coronary oxygen supply, the functional significance of their coronary circulation has never been investigated. Elasmobranchs are of special interest because of the morphological arrangement of their cardiomyocytes, which has resulted in the majority of the ventricular myocardium having access to oxygen from both a coronary supply and the venous blood returning to the heart.
 
