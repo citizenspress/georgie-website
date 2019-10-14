@@ -6,15 +6,15 @@ widget = "about"
 [[education.courses]]
 course = "Postdoctoral Scholar"
 institution = "University of Guelph, Department of Integrative Biology"
-year = 2018 - Current
+year = "2018 to Current"
 [[education.courses]]
 course = "Postdoctoral Scholar"
 institution = "University of Pennsylvania, Perelmen School of Medicine, Department of Pharmacology"
-year = 2017 - 2018
+year = "2017 - 2018"
 [[education.courses]]
 course = "Postdoctoral Scholar"
 institution = "University of Miami's Rosenstiel School of Marine and Atmospheric Science"
-year = 2015 - 2017
+year = "2015 - 2017"
 [[education.courses]]
 course = "PhD in Zoology/Animal Biology"
 institution = "University of British Columbia"
